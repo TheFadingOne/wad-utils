@@ -1,7 +1,9 @@
 # Ignore everything by default
 *
 
-!**/.gitignore
+!LICENSE
 !Makefile
+
+!**/.gitignore
 !**/*.c
 !**/*.h
